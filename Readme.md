@@ -1,8 +1,8 @@
 # 🔍 Edge Search Automation Bot  
-A simple but powerful Windows automation bot that performs random Bing/Edge searches using **PyAutoGUI** and **keyboard** libraries.  
-The script generates natural random sentences and performs real human-like searches in Microsoft Edge.     
-APART FROM THE FORMAL SIDE     
-😎 This tool completely automates searches in Microsoft Edge, so you don’t have to lift a finger while racking up those sweet daily points 😉
+A simple but powerful Windows automation bot that performs random Bing/Edge searches using PyAutoGUI and keyboard libraries.
+The script generates natural random sentences and executes human-like searches in Microsoft Edge, making automation feel seamless and realistic.<br><br>
+<br><br>
+😎 Bonus: This tool completely automates your searches, so you don’t have to lift a finger while racking up those sweet daily points — let your PC do the work while you chill! 🍹<br><br>
 
 ---
 
