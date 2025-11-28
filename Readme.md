@@ -40,7 +40,6 @@ pip install keyboard
 ---
 
 ## 📌PROCEDURE
-&nbsp;
 - 1. Configure Mouse Coordinates:
      - Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
      - Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
