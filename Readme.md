@@ -15,6 +15,10 @@ The script generates natural random sentences and performs real human-like searc
 ---
 
 ## 📦 Requirements
+🐍 Python 3.8+
+🌐 Microsoft Edge installed
+🎯 OS-level mouse/keyboard control enabled
+📡 Internet connection
 
 Install dependencies:
 
