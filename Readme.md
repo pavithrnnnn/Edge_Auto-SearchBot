@@ -16,9 +16,8 @@ The script generates natural random sentences and performs real human-like searc
 
 ## 📦 Requirements
 >🐍 Python 3.8+
->🌐 Microsoft Edge installed
 >🎯 OS-level mouse/keyboard control enabled
->📡 Internet connection
+
 
 Install dependencies:
 
@@ -40,15 +39,24 @@ pip install keyboard
 - Repeats for N searches
 
 ---
-## PROCEDURE
-- 1. Configure Mouse Coordinates
+## 📌PROCEDURE
+- 1. Configure Mouse Coordinates:
      Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
      Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
-     Attached video 4 Reference 😁
+     Attached video for Reference 😁
      
-- 2. Update on the main code
-     On the main code 
-
+- 2. Update on the main code:
+     Once you obtain the mouse coordinates
+     - Open the main script.
+     - Locate the variables where the coordinates are required.
+     - Replace the placeholder values with the X, Y coordinates from Test_cord.py.
+     - Save the file after updating.
+     This ensures that the bot clicks the correct search bar position every time. 
+- 3. Run the main script
+     ```bash
+     python .py
+     
+     ```   
 ---
 ## 🛑 Failsafe System
 
