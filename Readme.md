@@ -14,9 +14,10 @@ The script generates natural random sentences and performs real human-like searc
 
 ---
 ## 📦 Requirements
->🐍 Python 3.8+
->🎯 OS-level mouse/keyboard control enabled
-<br><br>
+>🐍 Python 3.8+<br><br>
+>🎯 OS-level mouse/keyboard control enabled<br><br>
+
+
 Install dependencies:
 
 ```bash
@@ -43,18 +44,16 @@ pip install keyboard
 - 1. Configure Mouse Coordinates:
      - Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
      - Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
-      - Attached video for Reference 😁
-&nbsp;
+      - Attached video for Reference 😁<br><br>
 - 2. Update on the main code:
      Once you obtain the mouse coordinates
      - Open the main script.
      - Locate the variables where the coordinates are required.
      - Replace the placeholder values with the X, Y coordinates from Test_cord.py.
      - Save the file after updating.
-     This ensures that the bot clicks the correct search bar position every time.
-&nbsp;
-- 3. Run the main script
-&nbsp;
+     This ensures that the bot clicks the correct search bar position every time.<br><br>
+- 3. Run the main script<br><br>
+
      ```bash
      python .py
      
