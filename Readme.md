@@ -28,7 +28,6 @@ pip install keyboard
 
 ```
 ---
-&nbsp;
 ## 🚀 How It Works
 
 - Opens Microsoft Edge
@@ -38,23 +37,26 @@ pip install keyboard
 - Presses Enter
 - Waits a random delay
 - Repeats for N searches
-
+&nbsp;
 ---
+
 ## 📌PROCEDURE
 &nbsp;
 - 1. Configure Mouse Coordinates:
      - Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
      - Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
       - Attached video for Reference 😁
-     &nbsp;
+&nbsp;
 - 2. Update on the main code:
      Once you obtain the mouse coordinates
      - Open the main script.
      - Locate the variables where the coordinates are required.
      - Replace the placeholder values with the X, Y coordinates from Test_cord.py.
      - Save the file after updating.
-     This ensures that the bot clicks the correct search bar position every time. 
+     This ensures that the bot clicks the correct search bar position every time.
+&nbsp;
 - 3. Run the main script
+&nbsp;
      ```bash
      python .py
      
