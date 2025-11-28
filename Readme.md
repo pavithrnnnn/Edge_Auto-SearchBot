@@ -13,12 +13,12 @@ The script generates natural random sentences and performs real human-like searc
 - 🛑 No browser drivers required — works with your real Edge installation  
 
 ---
-
+&nbsp;
 ## 📦 Requirements
 >🐍 Python 3.8+
 >🎯 OS-level mouse/keyboard control enabled
 
-
+&nbsp;
 Install dependencies:
 
 ```bash
@@ -28,6 +28,7 @@ pip install keyboard
 
 ```
 ---
+&nbsp;
 ## 🚀 How It Works
 
 - Opens Microsoft Edge
@@ -40,11 +41,12 @@ pip install keyboard
 
 ---
 ## 📌PROCEDURE
+&nbsp;
 - 1. Configure Mouse Coordinates:
-     Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
-     Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
-     Attached video for Reference 😁
-     
+     - Prior to executing the bot, determine the on-screen coordinates of the search bar in your browser.You can acheive this by running the "Test_cord.py" script first .The rules are simple
+     - Place your mouse cursor on the edge browser location where it usually opens and run the "Test_cord.py",You will get the x,y Coordinates which is usex by the main script
+      - Attached video for Reference 😁
+     &nbsp;
 - 2. Update on the main code:
      Once you obtain the mouse coordinates
      - Open the main script.
